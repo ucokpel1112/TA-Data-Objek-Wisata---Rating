@@ -1,0 +1,111 @@
+id_user,name,username,rating,date,nama_objek,id_objek
+1,Eko,/Profile/Eko1,1,19-Sep,AEON Mall BSD City,999
+1,Eko,/Profile/Eko2,1,Okt 2019,AEON Mall BSD City,999
+1,Eko,/Profile/Eko3,1,Agt 2019,AEON Mall BSD City,999
+1,Eko,/Profile/Eko4,1,Okt 2019,Agrowisata Teba Sari Bali,998
+2,Juliana,/Profile/Jultur,1,19-Jul,Agrowisata Teba Sari Bali,998
+2,Juliana,/Profile/Jultur,1,19-Jul,Agrowisata Teba Sari Bali,998
+2,Juliana,/Profile/Jultur,1,19-Jan,Agrowisata Teba Sari Bali,998
+2,Juliana,/Profile/Jultur,1,17-Jun,Agrowisata Teba Sari Bali,998
+3,Kristopel,/Profile/Kristopel,1,Mei 2019,Air Panas Banjar,997
+3,Kristopel,/Profile/Kristopel,1,19-Jun,Air Panas Banjar,997
+3,Kristopel,/Profile/Kristopel,1,Agt 2019,Air Panas Banjar,997
+4,Apriyanti,/Profile/Apri,2,16-Apr,Air Panas Banjar,997
+4,Apriyanti,/Profile/Apri,2,17-Jul,Air Panas Banjar,997
+5,Andreas,/Profile/Andreas,2,Okt 2019,Air Panas Banjar,997
+5,Andreas,/Profile/Andreas,2,21-Jan,Air Panas Banjar,997
+6,Lilis,/Profile/frankiep603,2,19-Jul,Air Terjun Benang Stokal and Benang Kelambu,996
+6,Lilis,/Profile/frankiep604,2,Des 2019,Air Terjun Benang Stokal and Benang Kelambu,996
+7,Yohana B,/Profile/G6268YRpeterl,2,Okt 2019,Air Terjun Benang Stokal and Benang Kelambu,996
+7,Yohana B,/Profile/G6268YRpeterl,2,Okt 2018,Air Terjun Benang Stokal and Benang Kelambu,996
+8,Indah,/Profile/indah,2,16-Jun,Air Terjun Coban Rondo,994
+8,Indah,/Profile/indah,2,Des 2015,Air Terjun Cunca Wulang,993
+9,Yulianti,/Profile/philipripieny,2,Okt 2018,Air Terjun Kanto Lampo,992
+9,Yulianti,/Profile/philipripieny,2,Des 2019,Air Terjun Kanto Lampo,992
+10,Sogumontar,/Profile/sogu,2,19-Jul,Air Terjun Coban Rondo,994
+10,Sogumontar,/Profile/sogu,3,19-Jun,Air Terjun Cunca Wulang,993
+11,Andika,/Profile/Andika,3,19-Mar,Air Terjun Madakaripura,991
+11,Andika,/Profile/Andika,3,18-Jul,Airport Railink Services,984
+12,Edwinda,/Profile/Edwinda,3,19-Nov,Alun Alun Bandung,983
+12,Edwinda,/Profile/Edwinda,3,Agt 2019,Alun Alun Kota Batu,982
+13,Yohana M,/Profile/YoM,3,19-Nov,Alun Alun Kota Malang,981
+13,Yohana M,/Profile/YoM,3,20-Mar,Alun-Alun Selatan,980
+15,Hotni,/Profile/Hot,3,Des 2016,Angel's Billabong,979
+15,Hotni,/Profile/Hot,3,Okt 2018,Balai Sidang Jakarta Convention Center,978
+17,Helmut,/Profile/Hel,3,Okt 2018,Bali Collection,977
+17,Helmut,/Profile/Hel,4,Mei 2019,Bali Eco Tours,976
+19,Desi,/Profile/Des,4,16-Jul,Bali Pulina - Pariwisata Pertanian,975
+19,Desi,/Profile/Des,4,18-Nov,Bali Sea Turtle Society (BSTS),974
+21,Andre,/Profile/Andre,4,19-Feb,Ciputra Waterpark,947
+21,Andre,/Profile/Andre,4,19-Sep,Circus Waterpark Bali,946
+23,Gabriel,/Profile/Gaba,4,18-Nov,Coban Rondo,945
+23,Gabriel,/Profile/Gaba,4,19-Apr,Curug Cimahi,944
+25,Julio,/Profile/julio,4,19-Jul,Danau Batur,943
+25,Julio,/Profile/julio,4,16-Jan,Danau Beratan,942
+25,Dedi,/Profile/dedi,4,17-Mar,Danau Kaolin,941
+25,Dedi,/Profile/dedi,5,17-Jul,Discovery Shopping Mall,932
+25,Dedi,/Profile/dedi,5,Agt 2016,DMZ Bali 3D Art Museum,931
+25,Dedi,/Profile/dedi,5,Des 2016,Dunia Fantasi Ancol,930
+25,Dedi,/Profile/dedi,5,Agt 2017,Dusun Bambu Family Leisure Park,929
+25,Dedi,/Profile/dedi,5,17-Jan,Farmhouse Bandung,928
+25,Dedi,/Profile/dedi,5,17-Feb,FO Rumah Mode,927
+25,Dedi,/Profile/dedi,5,17-Apr,FreeBird Express,926
+35,Ruth,/Profile/Ruth,5,Okt 2019,Gandaria City Mall,925
+35,Ruth,/Profile/Ruth,5,17-Apr,Garlic Lane,924
+35,Ruth,/Profile/Ruth,5,16-Jul,Gedung Bank Indonesia,923
+35,Ruth,/Profile/Ruth,5,17-Feb,Gedung Lawang Sewu,922
+35,Ruth,/Profile/Ruth,5,17-Apr,Gedung Sate,921
+35,Ruth,/Profile/Ruth,5,16-Mar,Gelanggang Samudra Ancol,920
+41,Mariana,/Profile/Ana,5,Mei 2019,Gereja Blenduk,919
+41,Mariana,/Profile/Ana,5,Mei 2019,Gereja Ganjuran,918
+41,Mariana,/Profile/Ana,3,Mei 2019,Gili Getaway,917
+41,Mariana,/Profile/Ana,3,17-Jul,Circus Waterpark Bali,946
+41,Mariana,/Profile/Ana,3,18-Nov,Coban Rondo,945
+41,Mariana,/Profile/Ana,3,Mei 2017,Curug Cimahi,944
+41,Mariana,/Profile/Ana,3,19-Apr,Danau Batur,943
+48,Sarah,/Profile/Sarah,3,Des 2018,Danau Beratan,942
+48,Sarah,/Profile/Sarah,3,Okt 2019,Danau Kaolin,941
+50,Sanny,/Profile/Sanny,3,Okt 2018,Discovery Shopping Mall,932
+50,Sanny,/Profile/Sanny,3,16-Jan,DMZ Bali 3D Art Museum,931
+50,Sanny,/Profile/Sanny,3,19-Mar,Dunia Fantasi Ancol,930
+50,Sanny,/Profile/Sanny,3,19-Jun,Dusun Bambu Family Leisure Park,929
+50,Sanny,/Profile/Sanny,3,16-Feb,Farmhouse Bandung,928
+55,Gita,/Profile/Gita,3,16-Mar,FO Rumah Mode,927
+55,Gita,/Profile/Gita,3,15-Sep,FreeBird Express,926
+55,Gita,/Profile/Gita,3,Des 2016,Gandaria City Mall,925
+58,Sandy,/Profile/Sandy,2,Agt 2015,Garlic Lane,924
+58,Sandy,/Profile/Sandy,2,Agt 2019,Gedung Bank Indonesia,923
+58,Sandy,/Profile/Sandy,2,Des 2015,Gedung Lawang Sewu,922
+58,Sandy,/Profile/Sandy,2,Des 2015,Gedung Sate,921
+58,Sandy,/Profile/Sandy,2,15-Jul,Gelanggang Samudra Ancol,920
+63,Cinthya,/Profile/Cinthya,2,15-Sep,Gereja Blenduk,919
+63,Cinthya,/Profile/Cinthya,2,17-Jan,Gereja Ganjuran,918
+63,Cinthya,/Profile/Cinthya,2,Okt 2015,Gili Getaway,917
+63,Cinthya,/Profile/Cinthya,2,19-Jun,Kebun Buah Mangunan Yogyakarta,855
+63,Cinthya,/Profile/Cinthya,2,17-Jul,Kebun Kopi Satria,854
+68,Jacky,/Profile/Jacky,2,17-Feb,Kebun Raya Bogor,853
+68,Jacky,/Profile/Jacky,2,19-Jan,Kebun Raya Cibodas,852
+68,Jacky,/Profile/Jacky,2,17-Apr,Kebun Teh Malino,851
+68,Jacky,/Profile/Jacky,2,17-Jul,Kemenuh Butterfly Park,850
+68,Jacky,/Profile/Jacky,2,17-Apr,Kepulauan Derawan,849
+68,Jacky,/Profile/Jacky,2,16-Feb,Kepulauan Gili,848
+68,Jacky,/Profile/Jacky,4,Mei 2018,Kepulauan Raja Ampat,847
+75,Golfrid,/Profile/Goldfrid,4,16-Apr,Keraton Kasepuhan,846
+75,Golfrid,/Profile/Goldfrid,4,Okt 2015,Ketep Pass,845
+77,Golfrid,/Profile/Goldfrid,4,19-Jun,Masjid Islamic Center Samarinda,815
+77,Golfrid,/Profile/Goldfrid,4,Okt 2016,Masjid Istiqlal,814
+77,Golfrid,/Profile/Goldfrid,4,Agt 2019,Masjid Raya At-Taqwa,813
+77,Golfrid,/Profile/Goldfrid,4,Okt 2018,Masjid Raya Mujahidin,812
+77,Golfrid,/Profile/Goldfrid,4,17-Jul,Masjid Salman ITB,811
+82,Crystal,/Profile/Crystal,4,17-Jul,Pantai Jimbaran,750
+82,Crystal,/Profile/Crystal,4,17-Apr,Pantai Karma Bali,749
+82,Crystal,/Profile/Crystal,4,17-Apr,Pantai Kedonganan,748
+82,Crystal,/Profile/Crystal,4,Okt 2018,Pantai Kelingking,747
+86,Syafa,/Profile/Syafa,4,19-Sep,Pantai Kukup,746
+86,Syafa,/Profile/Syafa,4,20-Jan,Pasar Tanah Abang,697
+86,Syafa,/Profile/Syafa,4,Agt 2019,Patung Sura dan Buaya,696
+89,Syafa,/Profile/Syafa,4,18-Jan,Pemandian Air Panas Guci,695
+89,Syafa,/Profile/Syafa,4,17-Jan,Perpustakaan Soeman H.S.,694
+91,Hendra,/Profile/Hendra,4,17-Jul,Pertapaan Karmel OCD,693
+91,Hendra,/Profile/Hendra,4,18-Nov,Punthuk Setumbu,672
+92,Trivena,/Profile/Triv,4,Mei 2017,Punthuk Setumbu,672
