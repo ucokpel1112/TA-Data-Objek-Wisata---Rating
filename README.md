@@ -1,3 +1,3 @@
 # TA-09
-# Code dan Dataset 
+# Code Dataser dan Hasil Percobaan
 
