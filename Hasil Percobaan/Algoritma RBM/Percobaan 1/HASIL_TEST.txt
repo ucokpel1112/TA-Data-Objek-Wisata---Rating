@@ -1,0 +1,59 @@
+Pada Dataset ID 221 Me-rating wisata
+Nama Wisata : Cihampelas Walk
+Type : TEMPAT BELANJA
+Hasil Rekomendasi
+Diberikan Rekomendasi Tempat Wisata yang condong dengan wisata alam namun tempat belanja tetap ada didalam rekomendasi.
+
+Pada Dataset ID 265 Me-rating Wisata 
+Nama Wisata : Istana Maimun
+Type : PEMANDANGAN & TENGARA
+Hasil Rekomendasi
+Diberikan Rekomendasi Tempat Wisata yang condong dengan wisata alam namun PEMANDANGAN & TENGARA tetap ada didalam rekomendasi.
+
+Pada Dataset ID 455 Me-rating Wisata 
+Nama Wisata : Tanjung Bira
+Type : WISATA ALAM & TAMAN
+Hasil Rekomendasi
+Diberikan Rekomendasi yang didominasi oleh wisata alam.
+
+Pada Dataset ID 688 Me-rating Wisata 
+Nama Wisata : Kepulauan Raja Ampat
+Type : WISATA ALAM & TAMAN
+Hasil Rekomendasi
+Diberikan Rekomendasi yang didominasi oleh wisata alam. 
+
+Pada Dataset ID 800 Me-rating Wisata 
+Nama Wisata : FO Rumah Mode
+Type : TEMPAT BELANJA
+Hasil Rekomendasi
+Diberikan Rekomendasi Tempat Wisata yang condong dengan wisata alam namun TEMPAT BELANJA tetap ada didalam rekomendasi.
+
+Pada Dataset ID 890 Me-rating Wisata 
+Nama Wisata : Pantai Lamaru & Wisata Alam Bukit Bangkirai
+Type : Wisata Alam dan Taman
+Hasil Rekomendasi
+Diberikan Rekomendasi yang didominasi oleh wisata alam. 
+
+Pada Dataset ID 1250 Me-rating Wisata 
+Nama Wisata : Bali Eco Tours & Scientia Square Park (SQP)
+Type : Wisata Alam dan Taman
+Hasil Rekomendasi
+Diberikan Rekomendasi yang didominasi oleh wisata alam. 
+
+Pada Dataset ID 7259 Me-rating Wisata 
+Nama Wisata : Semaya One Fast Cruise
+Type : LAINNYA
+Hasil Rekomendasi
+Diberikan Rekomendasi yang didominasi oleh wisata alam dan tipe Lainnya tidak terdapat dalam rekomendasi.
+
+Pada Dataset ID 13663 Me-rating Wisata 
+Nama Wisata : Goa Batu Cermin & Desa Wae Rebo 
+Type : WISATA ALAM & TAMAN & PEMANDANGAN & TENGARA
+Hasil Rekomendasi
+Diberikan Rekomendasi yang didominasi oleh wisata alam dan PEMANDANGAN & TENGARA.
+
+Pada Dataset ID 17854 Me-rating Wisata 
+Nama Wisata : Matahari Kuta Square
+Type : TEMPAT BELANJA
+Hasil Rekomendasi
+Diberikan Rekomendasi yang didominasi oleh wisata alam namun tempat belanja tetap ada dalam rekomendasi.
